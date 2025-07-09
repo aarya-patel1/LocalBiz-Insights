@@ -60,7 +60,7 @@ Ensure your uploaded CSV includes the following columns:
 
 ## 🌐 Live Demo
 
-> ✅ Coming soon on [Streamlit Cloud](https://streamlit.io/cloud)
+> [https://localbiz-insights-aarya1.streamlit.app/]
 
 ---
 

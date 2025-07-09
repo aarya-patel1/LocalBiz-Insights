@@ -1,0 +1,4 @@
+# .gitignore
+users.csv
+.env
+__pycache__/

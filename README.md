@@ -71,3 +71,18 @@ Ensure your uploaded CSV includes the following columns:
 ```bash
 git clone https://github.com/aarya-patel1/LocalBiz-Insights.git
 cd LocalBiz-Insights
+
+🛡️ Login Info (for testing)
+Use the signup form in the app to create your own account, or edit users.csv to preload users.
+
+🧠 Future Ideas
+🔐 Hashed passwords with bcrypt
+
+🧾 Per-user saved CSVs
+
+🌍 Multi-language support
+
+🧠 Advanced forecasting (Prophet, ARIMA)
+
+📬 Contact
+Made with ❤️ by Aarya Patel

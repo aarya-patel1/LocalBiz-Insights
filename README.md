@@ -71,7 +71,7 @@ Ensure your uploaded CSV includes the following columns:
 ```bash
 git clone https://github.com/aarya-patel1/LocalBiz-Insights.git
 cd LocalBiz-Insights
-
+```
 🛡️ Login Info (for testing)
 Use the signup form in the app to create your own account, or edit users.csv to preload users.
 
